@@ -9,5 +9,5 @@ for (let i = 0; i < nilai.length; i++) {
         nilaiTerkecil = nilai[i]
     }
 } 
-console.log(nilaiTerbesar)
-console.log(nilaiTerkecil)
+console.log(`Nilai terbesar: ${nilaiTerbesar}`)
+console.log(`Nilai terkecil: ${nilaiTerkecil}`)
